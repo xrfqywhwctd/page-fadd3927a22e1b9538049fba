@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9a67aa4efa5232ab3420cfd6",
+  "owner": "xrfqywhwctd",
+  "repo": "page-fadd3927a22e1b9538049fba",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fadd3927a22e1b9538049fba",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b8855c688d02a1c4b93688711348723a1ffd5e48ad8f8317ee396e65c6e7abbf",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供稳定的VPN网络加速服务和客户端下载，助您畅游全球网络。",
+          "AI_DESCRIPTION": "青云梯提供稳定的VPN网络加速服务和客户端下载，助您畅游全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<main>\n<h1>青云梯</h1>\n<nav>\n<a href=\"#\">首页</a>\n<a href=\"#intro\">简介</a>\n<a href=\"#usage\">使用场景</a>\n<a href=\"#howto\">操作指南</a>\n<a href=\"#faq\">FAQ</a>\n</nav>\n<section id=\"intro\">\n<h2>关于青云梯</h2>\n<p>青云梯是一款专业的VPN加速器，致力于为用户提供安全稳定的网络连接服务。无论日常浏览、远程办公还是跨境访问，都能通过青云梯实现高效畅通。</p>\n</section>\n<section>\n<div>\n<h3>套餐对比</h3>\n<p>请选择适合您的套餐方案，享受个性化的网络加速体验。</p>\n{{PLANS_HTML}}\n</div>\n<div>\n<h3>合作伙伴</h3>\n<p>青云梯与多家优质合作伙伴携手合作，共同为用户提供最佳服务。</p>\n{{CLIENTS_HTML}}\n</div>\n</section>\n<section id=\"usage\">\n<h2>使用场景</h2>\n<p>青云梯适用于多种网络使用场景，帮助用户优化网络连接。</p>\n<ul>\n<li>远程办公：稳定连接，提升工作效率</li>\n<li>在线游戏：优化网络延迟，畅玩不卡</li>\n<li>跨境访问：安全访问海外网站和内容</li>\n<li>内容创作：稳定上传下载文件</li>\n</ul>\n</section>\n<section id=\"howto\">\n<h2>操作说明</h2>\n<p>使用青云梯非常简单，以下是基本步骤：</p>\n<ol>\n<li>访问官网下载客户端</li>\n<li>按照安装提示进行安装</li>\n<li>登录账号后选择服务器连接</li>\n<li>享受加速后的网络体验</li>\n</ol>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>什么是青云梯？</summary>\n<p>青云梯是一款VPN网络加速器，提供稳定高效的代理服务，帮助用户提升上网体验。</p>\n</details>\n<details>\n<summary>如何使用青云梯？</summary>\n<p>下载客户端，安装后登录账号，选择服务器即可连接使用。</p>\n</details>\n<details>\n<summary>青云梯支持哪些设备？</summary>\n<p>青云梯支持Windows、Mac、Android、iOS等多种主流平台。</p>\n</details>\n<details>\n<summary>如何加速网络？</summary>\n<p>通过配置服务器和协议，可以有效提升网络连接质量。</p>\n</details>\n<details>\n<summary>青云梯有免费版本吗？</summary>\n<p>青云梯提供多种套餐方案供用户选择。</p>\n</details>\n</section>\n<footer>\n<p>© 2024 青云梯 保留所有权利</p>\n<p>友情链接：<a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a></p>\n</footer>\n</main>\n\n",
+          "hash": "d8bfe41e28219fb04a2c6441eaeb7df1969c0bd4018914d94654d79fdd113c3d",
+          "seo": {
+            "title": "青云梯 - VPN 梯子 加速器 客户端下载 官网",
+            "keywords": "青云梯,VPN,梯子,加速器,客户端下载,官网",
+            "description": "青云梯提供稳定的VPN网络加速服务和客户端下载，助您畅游全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hndaocaorenly.cn",
+    "host": "zh.hndaocaorenly.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hndaocaorenly.cn",
+      "url": "https://hndaocaorenly.cn/",
+      "label": "fnf",
+      "apex": "hndaocaorenly.cn",
+      "kind": null,
+      "identity": "bmayjvtaa/page-b482c53299999097d4defc25"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3cd11517721825a746002d7000daa1add53149fb8eecde04a32ca11fb87f3f9f",
+    "sitemap.xml": "9c7a8cf098a2fe52b87357f90c11b968378109269a68afe7e51420c9e2d88c53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e85c8d0e24e4a8c5bd9676aeb7c16a6603e33dc1a632196a18227f670adc6d8a",
+    "robots.txt": "134d8554d9dd205676e291ce0dedc72a579c46e74e43cbacca276ce90b789fce",
+    "6857a3afb913cd901c38dba718993e03.txt": "2242eb753ccf80b91647fb546aef3cde770a4e8179aada9a4fc24668b81f031d"
+  },
+  "revision": "9909d32dfa08e25bd3bc2c133db48061ed2cb4c8ae8321df42d6f2f545064d04"
+}
